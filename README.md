@@ -11,7 +11,7 @@ It has 3 main section
 
 ## At **Ticket Booking** You can *Book Ticket* 7 days from today.
 
-#### you need to give initial and final station name and it will give all the train between them with available seats.
+#### You need to give initial and final station name and it will give all the train between them with available seats.
 
 
 Different **.txt** keeps database of train information.
